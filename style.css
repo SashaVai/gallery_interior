@@ -269,7 +269,7 @@ p{
     }
 }
 
-@media screen and (max-width:800px) and (orientation:portrait)  {
+@media screen and (max-width:667px) and (orientation:portrait)  {
     .header-content {
         height: 100%;
         transform: translate(0, 0);
